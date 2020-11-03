@@ -105,6 +105,16 @@ p {
   color: white;
 }
 
+.button-disabled {
+  border: 1px solid grey;
+  text-decoration: none;
+  color: grey;
+  padding: 10px 30px;
+  margin-top: 40px;
+  display: inline-block;
+  border-radius: 20px;
+}
+
 figcaption {
   font-size: 10px;
   margin-top: 10px;
