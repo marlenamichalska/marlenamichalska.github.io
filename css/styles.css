@@ -158,3 +158,8 @@ footer h2 {
 .right-alignment {
   text-align: right;
 }
+
+.nag_poboczny {
+  text-align: center;
+  font-size: 80px;
+}
